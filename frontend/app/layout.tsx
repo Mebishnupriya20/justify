@@ -1,6 +1,6 @@
 import "./globals.css";
 import { Toaster } from "react-hot-toast";
-// import { withBasePath } from "@/lib/routes";
+import { withBasePath } from "@/lib/routes";
 
 export const metadata = {
   icons: {
